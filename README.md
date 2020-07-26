@@ -1,6 +1,6 @@
 ### Hi there!
 
-My name is Pablo Ferreira from Brazil (🇧🇷). I've been working as FullStack Developer at [Stefanini Brasil](https://stefanini.com/pt-br). 
+My name is Pablo Ferreira from Brazil (🇧🇷). I've been working as Full Stack Developer at [Stefanini Brasil](https://stefanini.com/pt-br). 
 
 In my free time I like to enjoy my family (👪), play (and watch) soccer (⚽️), to listen to music (🎵) , to watch movies (🎞️) and series (📺), to read books (📚) and and drink some beers (🍺).
 
