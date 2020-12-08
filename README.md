@@ -1,10 +1,10 @@
-### Hi there!
+### Hi!
 
-My name is Pablo Ferreira from Brazil (🇧🇷). I've been working as Full Stack Developer at [Stefanini Brasil](https://stefanini.com/pt-br). 
+My name is Pablo Ferreira, from Brazil (🇧🇷). I'm a Front-End Developer.
 
-In my free time I like to enjoy my family (👪), play (and watch) soccer (⚽️), to listen to music (🎵) , to watch movies (🎞️) and series (📺), to read books (📚) and and drink some beers (🍺).
+In my free time I like to enjoy my family (👪), play (and watch) football (⚽️), listen to music (🎵), watch movies (🎞️) and series (📺) and drink some beers (🍺).
 
-Would you like to find me?
+Would you like to meet me?
 
 [![Blog Badge](https://img.shields.io/badge/Blog-pabloferreira.netlify.app-black)](https://pabloferreira.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PabloFerreiraB)](https://twitter.com/PabloFerreiraB)
