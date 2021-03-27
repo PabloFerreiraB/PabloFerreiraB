@@ -15,4 +15,11 @@ Would you like to meet me?
 ### 📕 Últimos posts do blog
 
 <!-- BLOG:START -->
+<<<<<<< HEAD
+=======
+- [Melhores práticas com Angular - Parte 1](https://pabloferreira.netlify.app/melhores-praticas-com-angular-parte-1/)
+- [Métodos de Arrays no Javascript](https://pabloferreira.netlify.app/javascript-metodos-de-arrays/)
+- [Introdução ao NextJS - Parte 2](https://pabloferreira.netlify.app/introducao-ao-nextjs-parte-2/)
+- [Introdução ao NextJS - Parte 1](https://pabloferreira.netlify.app/introducao-ao-nextjs-parte-1/)
+>>>>>>> 4be895d468f8e1c4fca920998b05363cdcd19288
 <!-- BLOG:END -->
