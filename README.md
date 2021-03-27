@@ -15,9 +15,8 @@ Would you like to meet me?
 ### 📕 Últimos posts do blog
 
 <!-- BLOG:START -->
-- [Criando toda a estrutura de um site usando o Strapi CMS](https://willianjusten.com.br/criando-toda-a-estrutura-de-um-site-usando-o-strapi-cms/)
-- [Como configuro meu editor e desktop para gravar código](https://willianjusten.com.br/como-configuro-meu-editor-e-desktop-para-gravar-codigo/)
-- [Como deixar a imagem da webcam redonda no OBS](https://willianjusten.com.br/como-deixar-a-imagem-da-webcam-redonda-no-obs/)
-- [Criando componente de Tipografia com styled-components](https://willianjusten.com.br/criando-componente-de-tipografia-com-styled-components/)
-- [Adicionando ícone de GitHub nos projetos opensource](https://willianjusten.com.br/adicionando-icone-de-github-nos-projetos-opensource/)
+- [Melhores práticas com Angular - Parte 1](https://pabloferreira.netlify.app/melhores-praticas-com-angular-parte-1/)
+- [Métodos de Arrays no Javascript](https://pabloferreira.netlify.app/javascript-metodos-de-arrays/)
+- [Introdução ao NextJS - Parte 2](https://pabloferreira.netlify.app/introducao-ao-nextjs-parte-2/)
+- [Introdução ao NextJS - Parte 1](https://pabloferreira.netlify.app/introducao-ao-nextjs-parte-1/)
 <!-- BLOG:END -->
