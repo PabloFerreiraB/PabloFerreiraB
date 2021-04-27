@@ -13,7 +13,7 @@ No meu tempo livre gosto de curtir minha família (👪), jogar e assistir futeb
 ### 📕 Últimos posts do blog  - [![Blog Badge](https://img.shields.io/badge/Blog-pabloferreira.netlify.app-black)](https://pabloferreira.netlify.app/)
 
 <!-- BLOG:START -->
-- [Melhores práticas com Angular - Parte 1](https://pabloferreira.netlify.app/melhores-praticas-com-angular-parte-1/)
+- [Boas práticas com Angular](https://pabloferreira.netlify.app/melhores-praticas-com-angular-parte-1/)
 - [Métodos de Arrays no Javascript](https://pabloferreira.netlify.app/javascript-metodos-de-arrays/)
 - [Introdução ao NextJS - Parte 2](https://pabloferreira.netlify.app/introducao-ao-nextjs-parte-2/)
 - [Introdução ao NextJS - Parte 1](https://pabloferreira.netlify.app/introducao-ao-nextjs-parte-1/)
